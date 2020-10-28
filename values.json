@@ -1,0 +1,240 @@
+[
+{
+"digit_code": "036",
+"letter_code": "AUD",
+"unit": 1,
+"currency": "Австралийский доллар",
+"курс": 55,5393
+},
+{
+"digit_code": "944",
+"letter_code": "AZN",
+"unit": 1,
+"currency": "Азербайджанский манат",
+"курс": 45,4840
+},
+{
+"digit_code": "051",
+"letter_code": "AMD",
+"unit": 100,
+"currency": "Армянских драмов",
+"курс": 15,8355
+},
+{
+"digit_code": "933",
+"letter_code": "BYN",
+"unit": 1,
+"currency": "Белорусский рубль",
+"курс": 29,7198
+},
+{
+"digit_code": "975",
+"letter_code": "BGN",
+"unit": 1,
+"currency": "Болгарский лев",
+"курс": 46,3655
+},
+{
+"digit_code": "986",
+"letter_code": "BRL",
+"unit": 1,
+"currency": "Бразильский реал",
+"курс": 13,7727
+},
+{
+"digit_code": "348",
+"letter_code": "HUF",
+"unit": 100,
+"currency": "Венгерских форинтов",
+"курс": 25,0697
+},
+{
+"digit_code": "410",
+"letter_code": "KRW",
+"unit": 1000,
+"currency": "Вон Республики Корея",
+"курс": 66,4901
+},
+{
+"digit_code": "344",
+"letter_code": "HKD",
+"unit": 10,
+"currency": "Гонконгских долларов",
+"курс": 99,7089
+},
+{
+"digit_code": "208",
+"letter_code": "DKK",
+"unit": 1,
+"currency": "Датская крона",
+"курс": 12,1843
+},
+{
+"digit_code": "840",
+"letter_code": "USD",
+"unit": 1,
+"currency": "Доллар США",
+"курс": 77,2774
+},
+{
+"digit_code": "978",
+"letter_code": "EUR",
+"unit": 1,
+"currency": "Евро",
+"курс": 90,7237
+},
+{
+"digit_code": "356",
+"letter_code": "INR",
+"unit": 10,
+"currency": "Индийских рупий",
+"курс": 10,5691
+},
+{
+"digit_code": "398",
+"letter_code": "KZT",
+"unit": 100,
+"currency": "Казахстанских тенге",
+"курс": 17,9803
+},
+{
+"digit_code": "124",
+"letter_code": "CAD",
+"unit": 1,
+"currency": "Канадский доллар",
+"курс": 58,1208
+},
+{
+"digit_code": "417",
+"letter_code": "KGS",
+"unit": 100,
+"currency": "Киргизских сомов",
+"курс": 97,0490
+},
+{
+"digit_code": "156",
+"letter_code": "CNY",
+"unit": 1,
+"currency": "Китайский юань",
+"курс": 11,3797
+},
+{
+"digit_code": "498",
+"letter_code": "MDL",
+"unit": 10,
+"currency": "Молдавских леев",
+"курс": 45,6048
+},
+{
+"digit_code": "934",
+"letter_code": "TMT",
+"unit": 1,
+"currency": "Новый туркменский манат",
+"курс": 22,1108
+},
+{
+"digit_code": "578",
+"letter_code": "NOK",
+"unit": 10,
+"currency": "Норвежских крон",
+"курс": 83,3836
+},
+{
+"digit_code": "985",
+"letter_code": "PLN",
+"unit": 1,
+"currency": "Польский злотый",
+"курс": 20,0841
+},
+{
+"digit_code": "946",
+"letter_code": "RON",
+"unit": 1,
+"currency": "Румынский лей",
+"курс": 18,6085
+},
+{
+"digit_code": "960",
+"letter_code": "XDR",
+"unit": 1,
+"currency": "СДР (специальные права заимствования)",
+"курс": 108,7733
+},
+{
+"digit_code": "702",
+"letter_code": "SGD",
+"unit": 1,
+"currency": "Сингапурский доллар",
+"курс": 56,7132
+},
+{
+"digit_code": "972",
+"letter_code": "TJS",
+"unit": 10,
+"currency": "Таджикских сомони",
+"курс": 74,8449
+},
+{
+"digit_code": "949",
+"letter_code": "TRY",
+"unit": 1,
+"currency": "Турецкая лира",
+"курс": 10,0192
+},
+{
+"digit_code": "860",
+"letter_code": "UZS",
+"unit": 10000,
+"currency": "Узбекских сумов",
+"курс": 74,8724
+},
+{
+"digit_code": "980",
+"letter_code": "UAH",
+"unit": 10,
+"currency": "Украинских гривен",
+"курс": 27,2677
+},
+{
+"digit_code": "826",
+"letter_code": "GBP",
+"unit": 1,
+"currency": "Фунт стерлингов Соединенного королевства",
+"курс": 99,4792
+},
+{
+"digit_code": "203",
+"letter_code": "CZK",
+"unit": 10,
+"currency": "Чешских крон",
+"курс": 33,6398
+},
+{
+"digit_code": "752",
+"letter_code": "SEK",
+"unit": 10,
+"currency": "Шведских крон",
+"курс": 86,4671
+},
+{
+"digit_code": "756",
+"letter_code": "CHF",
+"unit": 1,
+"currency": "Швейцарский франк",
+"курс": 84,0154
+},
+{
+"digit_code": "710",
+"letter_code": "ZAR",
+"unit": 10,
+"currency": "Южноафриканских рэндов",
+"курс": 46,5743
+},
+{
+"digit_code": "392",
+"letter_code": "JPY",
+"unit": 100,
+"currency": "Японских иен",
+"курс": 73,2244
+}
+]
